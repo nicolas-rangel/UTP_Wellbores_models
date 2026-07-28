@@ -1,7 +1,7 @@
 # UTP Wellbore Models
 
 A small toolkit of vertical-well models and a thermodynamic exergy calculator,
-developed for the Minciencias–UTP (Universidad Tecnológica de Pereira) project.
+developed for the Minciencias–UTP project.
 The scripts support quick estimates of well thermal behaviour, hydraulic pressure
 drop, and the exergy content of a working fluid.
 
